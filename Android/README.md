@@ -1,7 +1,7 @@
 # AppSec
 
 ## Fundamentals
-- [ ] -- https://academy.hackthebox.com/course/preview/android-fundamentals   <br>
+- [X] -- https://academy.hackthebox.com/course/preview/android-fundamentals   <br>
 - [X] -- https://tryhackme.com/room/androidhacking101                         <br>
  
 ## Pentesting 
